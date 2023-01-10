@@ -1,10 +1,9 @@
 {
-   "schedule": 
+    "schedule": 
     [
       {
       "week" : "Monday",
-      "lessons" : 
-        [
+      "lessons": [
           "Английский язык",
           "Русский",
           "Математика",
