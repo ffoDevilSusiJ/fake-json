@@ -1,14 +1,78 @@
 {
-    "schedule": 
-    [
-      {
-      "week" : "Monday",
-      "lessons": [
-          "Английский язык",
-          "Русский",
-          "Математика",
-          "Физкультура"
-        ]
-      }
-    ]
+  "status": "err",
+  "data": 
+  [
+    {
+      "Monday": [
+        {
+          "NumberOfLesson": 1,
+          "LessonName": "Управление и автоматизация быз данных",
+          "TeacherFirstName": "",
+          "TeacherSecondName": "",
+          "TeacherLastName": "",
+          "Classroom": ""
+        },
+        {
+          "NumberOfLesson": 2,
+          "LessonName": "",
+          "TeacherFirstName": "",
+          "TeacherSecondName": "",
+          "TeacherLastName": "",
+          "Classroom": ""
+        },
+        {
+          "NumberOfLesson": 3,
+          "LessonName": "Математическое моделирование   ",
+          "TeacherFirstName": "",
+          "TeacherSecondName": "",
+          "TeacherLastName": "",
+          "Classroom": ""
+        },
+        {
+          "NumberOfLesson": 4,
+          "LessonName": "Численные методы",
+          "TeacherFirstName": "",
+          "TeacherSecondName": "",
+          "TeacherLastName": "",
+          "Classroom": ""
+        }
+      ]
+    },
+    {
+      "Teusday": [
+        {
+          "NumberOfLesson": 1,
+          "LessonName": "Управление и автоматизация быз данных",
+          "TeacherFirstName": "",
+          "TeacherSecondName": "",
+          "TeacherLastName": "",
+          "Classroom": ""
+        },
+        {
+          "NumberOfLesson": 2,
+          "LessonName": "",
+          "TeacherFirstName": "",
+          "TeacherSecondName": "",
+          "TeacherLastName": "",
+          "Classroom": ""
+        },
+        {
+          "NumberOfLesson": 3,
+          "LessonName": "Математическое моделирование   ",
+          "TeacherFirstName": "",
+          "TeacherSecondName": "",
+          "TeacherLastName": "",
+          "Classroom": ""
+        },
+        {
+          "NumberOfLesson": 4,
+          "LessonName": "Численные методы",
+          "TeacherFirstName": "",
+          "TeacherSecondName": "",
+          "TeacherLastName": "",
+          "Classroom": ""
+        }
+      ]
+    }
+  ]
 }
