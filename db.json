@@ -2,7 +2,7 @@
   "data": 
   [
     {
-      "Monday": [
+      1: [
         {
           "NumberOfLesson": 1,
           "LessonName": "Управление и автоматизация быз данных",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "Teusday": [
+      2: [
         {
           "NumberOfLesson": 1,
           "LessonName": "Управление и автоматизация быз данных",
