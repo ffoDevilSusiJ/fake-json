@@ -1,74 +1,163 @@
 {
-  "data": 
-  [
+    "data": 
     [
-        {
-          "NumberOfLesson": 1,
-          "LessonName": "Управление и автоматизация быз данных",
-          "TeacherFirstName": "",
-          "TeacherSecondName": "",
-          "TeacherLastName": "",
-          "Classroom": ""
-        },
-        {
-          "NumberOfLesson": 2,
-          "LessonName": "",
-          "TeacherFirstName": "",
-          "TeacherSecondName": "",
-          "TeacherLastName": "",
-          "Classroom": ""
-        },
-        {
-          "NumberOfLesson": 3,
-          "LessonName": "Математическое моделирование   ",
-          "TeacherFirstName": "",
-          "TeacherSecondName": "",
-          "TeacherLastName": "",
-          "Classroom": ""
-        },
-        {
-          "NumberOfLesson": 4,
-          "LessonName": "Численные методы",
-          "TeacherFirstName": "",
-          "TeacherSecondName": "",
-          "TeacherLastName": "",
-          "Classroom": ""
-        }
-      ],
-
-      [
-        {
-          "NumberOfLesson": 1,
-          "LessonName": "Управление и автоматизация быз данных",
-          "TeacherFirstName": "",
-          "TeacherSecondName": "",
-          "TeacherLastName": "",
-          "Classroom": ""
-        },
-        {
-          "NumberOfLesson": 2,
-          "LessonName": "",
-          "TeacherFirstName": "",
-          "TeacherSecondName": "",
-          "TeacherLastName": "",
-          "Classroom": ""
-        },
-        {
-          "NumberOfLesson": 3,
-          "LessonName": "Математическое моделирование   ",
-          "TeacherFirstName": "",
-          "TeacherSecondName": "",
-          "TeacherLastName": "",
-          "Classroom": ""
-        },
-        {
-          "NumberOfLesson": 4,
-          "LessonName": "Численные методы",
-          "TeacherFirstName": "",
-          "TeacherSecondName": "",
-          "TeacherLastName": "",
-          "Classroom": ""
-        }
-      ]
-  ]
-}
+        [
+          {
+            "NumberOfLesson": 2,
+            "LessonName": "МДК.07.01 Управление и автоматизация баз данных",
+            "Teacher": "Зайцева Дарья Геннадьевна",
+            "Classroom": "605",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 3,
+            "LessonName": "МДК.02.03 Математическое моделирование",
+            "Teacher": "Бурматикова Татьяна Алексеевна",
+            "Classroom": "712",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 4,
+            "LessonName": "Численные методы",
+            "Teacher": "Муратова Жанна Дмитриевна",
+            "Classroom": "610",
+            "WeekType": true
+          },
+          {
+            "NumberOfLesson": 4,
+            "LessonName": "МДК.01.01 Разработка программных модулей",
+            "Teacher": "Малышева Татьяна Васильевна",
+            "Classroom": "615",
+            "WeekType": false
+          },
+        ],
+        [
+          {
+            "NumberOfLesson": 1,
+            "LessonName": "Физическая культура",
+            "Teacher": "Макаров Дмитрий Рудольфович",
+            "Classroom": "С/З",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 2,
+            "LessonName": "МДК.01.03 Разработка мобильных приложений",
+            "Teacher": "Смирнова Анастасия Владимировна",
+            "Classroom": "305",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 3,
+            "LessonName": "МДК.01.02 Поддержка и тестирование программных модулей",
+            "Teacher": "Слепнев Евгений Сергеевич",
+            "Classroom": "431",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 4,
+            "LessonName": "МДК.01.06 Основы программирования и конфигурация в КИС",
+            "Teacher": "Шилова Алина Сергеевна",
+            "Classroom": "605",
+            "WeekType": null
+          }
+        ],
+        [
+          {
+            "NumberOfLesson": 1,
+            "LessonName": "МДК.07.01 Управление и автоматизация баз данных",
+            "Teacher": "Зайцева Дарья Геннадьевна",
+            "Classroom": "605",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 2,
+            "LessonName": "Иностранный язык в профессиональной деятельности",
+            "Teacher": "Батрудинова Аида Айратовна",
+            "Classroom": "424",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 2,
+            "LessonName": "Иностранный язык в профессиональной деятельности",
+            "Teacher": "Невзорова Эльвира Борисовна",
+            "Classroom": "507",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 3,
+            "LessonName": "МДК.01.06 Основы программирования и конфигурация в КИС",
+            "Teacher": "Шилова Алина Сергеевна",
+            "Classroom": "622",
+            "WeekType": null
+          }
+        ],
+        [
+          {
+            "NumberOfLesson": 1,
+            "LessonName": "МДК.02.03 Математическое моделирование",
+            "Teacher": "Бурматикова Татьяна Алексеевна",
+            "Classroom": "718",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 2,
+            "LessonName": "Численные методы",
+            "Teacher": "Муратова Жанна Дмитриевна",
+            "Classroom": "610",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 3,
+            "LessonName": "МДК.01.01 Разработка программных модулей",
+            "Teacher": "Малышева Татьяна Васильевна",
+            "Classroom": "618",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 4,
+            "LessonName": "МДК.11.01 Разработка БД",
+            "Teacher": "Никулина Валентина Андреевна",
+            "Classroom": "308",
+            "WeekType": false
+          }
+        ],
+        [
+          {
+            "NumberOfLesson": 1,
+            "LessonName": "МДК.01.03 Разработка мобильных приложений",
+            "Teacher": "Смирнова Анастасия Владимировна",
+            "Classroom": "305",
+            "WeekType": true
+          },
+          {
+            "NumberOfLesson": 1,
+            "LessonName": "МДК.01.02 Поддержка и тестирование программных модулей",
+            "Teacher": "Слепнев Евгений Сергеевич",
+            "Classroom": "718",
+            "WeekType": false
+          },
+          {
+            "NumberOfLesson": 2,
+            "LessonName": "МДК.01.03 Разработка мобильных приложений",
+            "Teacher": "Смирнова Анастасия Владимировна",
+            "Classroom": "305",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 3,
+            "LessonName": "МДК.11.01 Разработка БД",
+            "Teacher": "Никулина Валентина Андреевна",
+            "Classroom": "308",
+            "WeekType": null
+          },
+          {
+            "NumberOfLesson": 4,
+            "LessonName": "МДК.07.01 Управление и автоматизация баз данных",
+            "Teacher": "Зайцева Дарья Геннадьевна",
+            "Classroom": "605",
+            "WeekType": null
+          }
+        ],
+        []
+    ]
+  }
